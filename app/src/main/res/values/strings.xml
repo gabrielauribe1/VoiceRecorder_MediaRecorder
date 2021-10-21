@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Audio_MediaRecorder2</string>
+    <string name="audio_recorder">Audio Recorder</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="play">PLAY</string>
+</resources>
